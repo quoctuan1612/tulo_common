@@ -1,0 +1,16 @@
+vi:
+  errors:
+    messages:
+      ward:
+        record_not_found: Không thể tìm thấy Phường/Xã/Thị trấn theo ID %{district_id} của Quận/Huyện
+      role:
+        role_id_exist: Mã chức vụ %{role_id} đã tồn tại
+        record_not_found: Không tìm thấy chức vụ theo mã chức vụ %{role_id}
+      permission:
+        record_not_found: Không tìm thấy quyền theo mã quyền %{id}
+        role_id_exist: Mã chức vụ %{role_id} đã tồn tại
+      user:
+        user_name_exist: Tên đăng nhập %{user_name} đã tồn tại
+        user_name_not_exist: Tên đăng nhập %{user_name} không tồn tại
+        employee_id_exist: Mã nhân viên %{employee_id} đã tồn tại
+        record_not_found: Không tìm bản ghi theo mã id %{id}

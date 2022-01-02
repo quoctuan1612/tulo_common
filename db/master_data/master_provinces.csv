@@ -1,0 +1,64 @@
+id,name,code,code_name,division_type,phone_code,order,is_usable,master_country_id
+1,Thành phố Hà Nội,1,thanh_pho_ha_noi,thành phố trung ương,24,1,true,1
+2,Tỉnh Hà Giang,2,tinh_ha_giang,tỉnh,219,2,true,1
+3,Tỉnh Cao Bằng,4,tinh_cao_bang,tỉnh,206,4,true,1
+4,Tỉnh Bắc Kạn,6,tinh_bac_kan,tỉnh,209,6,true,1
+5,Tỉnh Tuyên Quang,8,tinh_tuyen_quang,tỉnh,207,8,true,1
+6,Tỉnh Lào Cai,10,tinh_lao_cai,tỉnh,214,10,true,1
+7,Tỉnh Điện Biên,11,tinh_dien_bien,tỉnh,215,11,true,1
+8,Tỉnh Lai Châu,12,tinh_lai_chau,tỉnh,213,12,true,1
+9,Tỉnh Sơn La,14,tinh_son_la,tỉnh,212,14,true,1
+10,Tỉnh Yên Bái,15,tinh_yen_bai,tỉnh,216,15,true,1
+11,Tỉnh Hoà Bình,17,tinh_hoa_binh,tỉnh,218,17,true,1
+12,Tỉnh Thái Nguyên,19,tinh_thai_nguyen,tỉnh,208,19,true,1
+13,Tỉnh Lạng Sơn,20,tinh_lang_son,tỉnh,205,20,true,1
+14,Tỉnh Quảng Ninh,22,tinh_quang_ninh,tỉnh,203,22,true,1
+15,Tỉnh Bắc Giang,24,tinh_bac_giang,tỉnh,204,24,true,1
+16,Tỉnh Phú Thọ,25,tinh_phu_tho,tỉnh,210,25,true,1
+17,Tỉnh Vĩnh Phúc,26,tinh_vinh_phuc,tỉnh,211,26,true,1
+18,Tỉnh Bắc Ninh,27,tinh_bac_ninh,tỉnh,222,27,true,1
+19,Tỉnh Hải Dương,30,tinh_hai_duong,tỉnh,220,30,true,1
+20,Thành phố Hải Phòng,31,thanh_pho_hai_phong,thành phố trung ương,225,31,true,1
+21,Tỉnh Hưng Yên,33,tinh_hung_yen,tỉnh,221,33,true,1
+22,Tỉnh Thái Bình,34,tinh_thai_binh,tỉnh,227,34,true,1
+23,Tỉnh Hà Nam,35,tinh_ha_nam,tỉnh,226,35,true,1
+24,Tỉnh Nam Định,36,tinh_nam_dinh,tỉnh,228,36,true,1
+25,Tỉnh Ninh Bình,37,tinh_ninh_binh,tỉnh,229,37,true,1
+26,Tỉnh Thanh Hóa,38,tinh_thanh_hoa,tỉnh,237,38,true,1
+27,Tỉnh Nghệ An,40,tinh_nghe_an,tỉnh,238,40,true,1
+28,Tỉnh Hà Tĩnh,42,tinh_ha_tinh,tỉnh,239,42,true,1
+29,Tỉnh Quảng Bình,44,tinh_quang_binh,tỉnh,232,44,true,1
+30,Tỉnh Quảng Trị,45,tinh_quang_tri,tỉnh,233,45,true,1
+31,Tỉnh Thừa Thiên Huế,46,tinh_thua_thien_hue,tỉnh,234,46,true,1
+32,Thành phố Đà Nẵng,48,thanh_pho_da_nang,thành phố trung ương,236,48,true,1
+33,Tỉnh Quảng Nam,49,tinh_quang_nam,tỉnh,235,49,true,1
+34,Tỉnh Quảng Ngãi,51,tinh_quang_ngai,tỉnh,255,51,true,1
+35,Tỉnh Bình Định,52,tinh_binh_dinh,tỉnh,256,52,true,1
+36,Tỉnh Phú Yên,54,tinh_phu_yen,tỉnh,257,54,true,1
+37,Tỉnh Khánh Hòa,56,tinh_khanh_hoa,tỉnh,258,56,true,1
+38,Tỉnh Ninh Thuận,58,tinh_ninh_thuan,tỉnh,259,58,true,1
+39,Tỉnh Bình Thuận,60,tinh_binh_thuan,tỉnh,252,60,true,1
+40,Tỉnh Kon Tum,62,tinh_kon_tum,tỉnh,260,62,true,1
+41,Tỉnh Gia Lai,64,tinh_gia_lai,tỉnh,269,64,true,1
+42,Tỉnh Đắk Lắk,66,tinh_dak_lak,tỉnh,262,66,true,1
+43,Tỉnh Đắk Nông,67,tinh_dak_nong,tỉnh,261,67,true,1
+44,Tỉnh Lâm Đồng,68,tinh_lam_dong,tỉnh,263,68,true,1
+45,Tỉnh Bình Phước,70,tinh_binh_phuoc,tỉnh,271,70,true,1
+46,Tỉnh Tây Ninh,72,tinh_tay_ninh,tỉnh,276,72,true,1
+47,Tỉnh Bình Dương,74,tinh_binh_duong,tỉnh,274,74,true,1
+48,Tỉnh Đồng Nai,75,tinh_dong_nai,tỉnh,251,75,true,1
+49,Tỉnh Bà Rịa - Vũng Tàu,77,tinh_ba_ria_vung_tau,tỉnh,254,77,true,1
+50,Thành phố Hồ Chí Minh,79,thanh_pho_ho_chi_minh,thành phố trung ương,28,79,true,1
+51,Tỉnh Long An,80,tinh_long_an,tỉnh,272,80,true,1
+52,Tỉnh Tiền Giang,82,tinh_tien_giang,tỉnh,273,82,true,1
+53,Tỉnh Bến Tre,83,tinh_ben_tre,tỉnh,275,83,true,1
+54,Tỉnh Trà Vinh,84,tinh_tra_vinh,tỉnh,294,84,true,1
+55,Tỉnh Vĩnh Long,86,tinh_vinh_long,tỉnh,270,86,true,1
+56,Tỉnh Đồng Tháp,87,tinh_dong_thap,tỉnh,277,87,true,1
+57,Tỉnh An Giang,89,tinh_an_giang,tỉnh,296,89,true,1
+58,Tỉnh Kiên Giang,91,tinh_kien_giang,tỉnh,297,91,true,1
+59,Thành phố Cần Thơ,92,thanh_pho_can_tho,thành phố trung ương,292,92,true,1
+60,Tỉnh Hậu Giang,93,tinh_hau_giang,tỉnh,293,93,true,1
+61,Tỉnh Sóc Trăng,94,tinh_soc_trang,tỉnh,299,94,true,1
+62,Tỉnh Bạc Liêu,95,tinh_bac_lieu,tỉnh,291,95,true,1
+63,Tỉnh Cà Mau,96,tinh_ca_mau,tỉnh,290,96,true,1

@@ -1,0 +1,14 @@
+departments:
+  host: <%= ENV.fetch('DEPARTMENTS_HOST') { 'tulo_departments_app_1:50051' } %>
+
+employees:
+  host: <%= ENV.fetch('EMPLOYEES_HOST') { 'tulo_employees_app_1:50051' } %>
+
+common:
+  host: <%= ENV.fetch('COMMON_HOST') { 'tulo_common_app_1:50051' } %>
+
+documents:
+  host: <%= ENV.fetch('DOCUMENTS_HOST') { 'tulo_documents_app_1:50051' } %>
+
+env:
+  name: <%= ENV['ENV_NAME'] %>
